@@ -1,0 +1,18 @@
+.cta {
+    text-align: center;
+    padding: 2rem 0;
+    background-color: #ffffff;
+  }
+  
+  .cta h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #2d2d2d;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }

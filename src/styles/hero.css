@@ -1,0 +1,45 @@
+.hero {
+    background-color: #1c2526;
+    color: #ffffff;
+    padding: 4rem 1rem;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 400px;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    font-size: 1.1rem;
+    color: #a1a1a1;
+    margin-bottom: 2rem;
+  }
+  
+  .hero button {
+    background-color: #2557a7;
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+  }
+  
+  .hero button:hover {
+    background-color: #1c4587;
+  }
+  
+  .hero-image {
+    max-width: 45%;
+  }
+  
+  .hero-image img {
+    width: 100%;
+    height: auto;
+  }
